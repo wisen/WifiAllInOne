@@ -1,3 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_e0809ec63921730fa18213641e65cdd3bb8b3edb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_d5d4d7914dd08a172a7ffd2e2d04b702fa267d85.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_ecec004a4d0d8049edd21b72bea4cec9a2a28d4e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_7ebca0f3ecc630589b5ea66876274ddb8dc32a36.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_4b7513f95da784e75f18c644f6825858decc3fed.jar" />
+    </item>
+
+</items>

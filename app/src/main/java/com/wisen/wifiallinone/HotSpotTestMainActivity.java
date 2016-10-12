@@ -34,6 +34,8 @@ import java.util.List;
 
 public class HotSpotTestMainActivity extends AppCompatActivity {
 
+    private static final String VERSION = "1.0";
+
     private final String TAG = "HotSpotTst";
     protected static final int SHORT_TIMEOUT = 5 * 1000; // 5 seconds
     protected static final long LONG_TIMEOUT = 30 * 1000;  // 2 minutes
@@ -313,6 +315,8 @@ public class HotSpotTestMainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hot_spot_test_main);
+
+        setTitle("HotSpotTest Ver: "+VERSION);
 
         //step1 get permisson///////////////////////////////////
         if(!Settings.System.canWrite(this)){
