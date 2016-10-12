@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="fb40cc093509a6274423488451e8f2160fe77f0b">
-        <dex dex="D:\AndroidStudioProjects\WifiAllInOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3490479b16ee92ec77bb10d23cbf2120bf8d961a\classes.dex" />
-    </item>
-
-</items>
